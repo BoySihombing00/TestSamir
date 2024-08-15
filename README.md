@@ -12,7 +12,7 @@ Step 2 - Check java, node.js and npm is installed on your system
 - npm -v
 
 Step 3 - Download the folder or clone the repositor to your project folder
-- git clone
+- git clone https://github.com/BoySihombing00/TestSamir.git
 
 Step 4 - Open your project in IDE (VS Code) 
 
