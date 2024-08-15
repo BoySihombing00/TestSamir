@@ -19,6 +19,8 @@ Step 4 - Open your project in IDE (VS Code)
 Step 5 - Open terminal in VS Code and run commands
 - npm install
 
+// if it has been run, please check the node_modules folder to see if it already exists
+
 ## Run Tests
 Step 1 - Terminal in VS Code, run commands
 - npm run login
